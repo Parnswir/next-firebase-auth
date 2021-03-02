@@ -16,5 +16,8 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-firebaseui": "^4.1.0"
+  },
+  "browser": {
+    "firebase-admin": false
   }
 }
